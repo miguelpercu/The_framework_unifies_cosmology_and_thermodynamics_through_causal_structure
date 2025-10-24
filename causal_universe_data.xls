@@ -1,0 +1,16 @@
+Parameter,Value,Units,Description
+kappa_crit,1e-78,dimensionless,Universal causal coherence constant
+C_UAT,0.000914102564102563,dimensionless,Cosmological coupling constant
+C_S_UAT,6.402271780915666e-59,J/(K s),Thermodynamic coupling constant
+C_CPU,1.4277784439382644e+55,s/J,Master unification constant
+k_early_target,1.0713,dimensionless,Target early universe correction
+k_early_calculated,1.0713,dimensionless,Calculated early universe correction
+H0_Planck,67.36,km/s/Mpc,Planck collaboration measurement
+H0_corrected,72.162768,km/s/Mpc,UCP corrected Hubble constant
+H0_SH0ES,73.04,km/s/Mpc,SH0ES direct measurement
+dSdt_standard,6.402271780915666e+19,J/(K s),Standard entropy production rate
+dSdt_causal,6.402271780915666e+19,J/(K s),Causal entropy absorption rate
+dSdt_net,0.0,J/(K s),Net entropy change at kappa_crit
+Planck_Length,1.6162550244237053e-35,m,Fundamental quantum length scale
+Planck_Time,5.391246448313604e-44,s,Fundamental quantum time scale
+Planck_Area,2.612280303974872e-70,m²,Fundamental quantum area scale
